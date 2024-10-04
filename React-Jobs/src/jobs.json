@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Senior React Developer",
+    "type": "Full-Time",
+    "description": "We are seeking a talented Front-End Developer to join our team in Bangalore. You will develop dynamic web applications using React and JavaScript. Collaborate with skilled developers to deliver high-quality solutions.",
+    "location": "Bangalore, India",
+    "salary": "₹12L - ₹15L / Year",
+    "company": {
+      "name": "Tech Innovators Pvt Ltd",
+      "description": "Tech Innovators is a leading software development firm specializing in cutting-edge web and mobile applications. We work with global clients across industries, providing high-performance solutions. Our team is dedicated to delivering quality software and driving innovation in the tech space.",
+      "contactemail": "contact@techinnovators.com",
+      "contactphone": "+91 9988776655"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Front-End Engineer (React)",
+    "type": "Part-Time",
+    "description": "Join our remote team as a Front-End Engineer, building user interfaces using React. Enjoy flexible hours while working on innovative projects for global clients. Collaborate in a remote setup to deliver impactful solutions.",
+    "location": "Remote, India",
+    "salary": "₹8L - ₹10L / Year",
+    "company": {
+      "name": "Remote Works",
+      "description": "Remote Works is a pioneer in remote IT services, specializing in delivering world-class solutions to global clients. We focus on flexibility and collaboration, offering employees the chance to work from anywhere. Our team values innovation, quality, and a healthy work-life balance.",
+      "contactemail": "hr@remoteworks.in",
+      "contactphone": "+91 9876543210"
+    }
+  },
+  {
+    "id": 3,
+    "title": "React.js Developer",
+    "type": "Full-Time",
+    "description": "We are hiring a React.js Developer to join our dynamic team in Mumbai. Build scalable web applications using modern JavaScript frameworks. Collaborate with cross-functional teams to deliver impactful projects.",
+    "location": "Mumbai, India",
+    "salary": "₹10L - ₹12L / Year",
+    "company": {
+      "name": "Code Masters Ltd",
+      "description": "Code Masters Ltd is a leading software development company focused on high-quality solutions. We work with top-tier clients, delivering exceptional web and mobile applications. Our culture is built on innovation, creativity, and the continuous development of our team members.",
+      "contactemail": "info@codemasters.com",
+      "contactphone": "+91 9876123456"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Junior React Developer",
+    "type": "Full-Time",
+    "description": "An entry-level position for developers passionate about learning React.js in Hyderabad. Work on internal tools and client projects while gaining hands-on experience. Collaborate with senior developers to enhance your skills.",
+    "location": "Hyderabad, India",
+    "salary": "₹6L - ₹8L / Year",
+    "company": {
+      "name": "NextGen Software Solutions",
+      "description": "NextGen Software Solutions provides cutting-edge technology solutions to clients worldwide. We focus on innovation and growth, offering a collaborative environment where employees can thrive. Our mission is to deliver transformative software that drives business success.",
+      "contactemail": "jobs@nextgen.com",
+      "contactphone": "+91 9900998877"
+    }
+  },
+  {
+    "id": 5,
+    "title": "React Developer - Remote",
+    "type": "Part-Time",
+    "description": "A part-time opportunity for React developers to work on flexible schedules. Contribute to diverse client projects, ensuring the delivery of front-end solutions. Work remotely with a highly collaborative team.",
+    "location": "Remote, India",
+    "salary": "₹7L - ₹9L / Year",
+    "company": {
+      "name": "TechSphere Pvt Ltd",
+      "description": "TechSphere Pvt Ltd is a leading IT consulting firm known for delivering innovative cloud-based and mobile solutions. We cater to a variety of industries, offering bespoke technology solutions. Our team is dedicated to delivering excellence and helping businesses transform digitally.",
+      "contactemail": "hr@techsphere.com",
+      "contactphone": "+91 9988554433"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Lead React Developer",
+    "type": "Full-Time",
+    "description": "Lead a team of React developers in Pune, building high-performance web applications. Mentor junior developers and oversee project deliverables. Collaborate with project managers to meet client expectations.",
+    "location": "Pune, India",
+    "salary": "₹14L - ₹16L / Year",
+    "company": {
+      "name": "Digital Edge Solutions",
+      "description": "Digital Edge Solutions is a digital transformation company specializing in web and mobile technologies. We empower businesses with innovative digital solutions that drive growth. Our team is composed of experts who are committed to delivering quality and excellence in every project.",
+      "contactemail": "lead@digitaledge.com",
+      "contactphone": "+91 9876000011"
+    }
+  },
+  {
+    "id": 7,
+    "title": "React Developer Intern",
+    "type": "Part-Time",
+    "description": "We are looking for interns eager to learn React.js while working on real-world projects in Ahmedabad. Gain hands-on experience by working alongside senior developers. Contribute to exciting web development projects.",
+    "location": "Ahmedabad, India",
+    "salary": "₹2L - ₹3L / Year",
+    "company": {
+      "name": "InnovaTech Pvt Ltd",
+      "description": "InnovaTech is a fast-growing startup focused on innovation in the tech space. Our expertise lies in building intuitive web and mobile applications that solve real-world problems. We offer a dynamic, collaborative environment for growth and learning.",
+      "contactemail": "careers@innovatech.com",
+      "contactphone": "+91 9966332211"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Mid-Level React Developer",
+    "type": "Full-Time",
+    "description": "We are seeking a mid-level React developer in Chennai to work on client-facing applications. Develop user interfaces and reusable components. Collaborate with the design and back-end teams to deliver seamless user experiences.",
+    "location": "Chennai, India",
+    "salary": "₹9L - ₹11L / Year",
+    "company": {
+      "name": "CoreTech Solutions",
+      "description": "CoreTech Solutions is an IT firm that provides enterprise-level solutions for businesses around the world. We pride ourselves on delivering innovative and scalable technology solutions. Our team focuses on collaboration and delivering impactful results.",
+      "contactemail": "hr@coretech.in",
+      "contactphone": "+91 9876341250"
+    }
+  },
+  {
+    "id": 9,
+    "title": "React Native Developer",
+    "type": "Full-Time",
+    "description": "Join our team in Jaipur to develop mobile applications using React Native. Build cross-platform apps for iOS and Android. Collaborate with back-end developers to integrate services.",
+    "location": "Jaipur, India",
+    "salary": "₹11L - ₹13L / Year",
+    "company": {
+      "name": "AppVision Pvt Ltd",
+      "description": "AppVision Pvt Ltd is a mobile app development company specializing in creating user-friendly, high-performance applications. Our focus is on delivering quality mobile experiences that cater to both businesses and end-users. We strive for innovation and excellence in every project.",
+      "contactemail": "jobs@appvision.in",
+      "contactphone": "+91 9922556644"
+    }
+  }
+]
